@@ -23,7 +23,7 @@ A simple ASP.NET Core Web API that converts numerical values between different u
 ```bash
 # Clone the repo
 git clone https://github.com/lakshitasaini008/unit-conversion-api.git
-cd UnitConversionApi
+cd unit-conversion-api
 
 # Start the API
 dotnet run --project UnitConversionApi
