@@ -28,8 +28,8 @@ cd unit-conversion-api
 # Start the API
 dotnet run --project UnitConversionApi
 
-# The API will be available at https://localhost:5001 (or http://localhost:5000)
-# Swagger UI is served at the root: https://localhost:5001/
+# The API will be available at https://localhost:5000 (or http://localhost:5001)
+# Swagger UI is served at the root: https://localhost:5000/
 ```
 
 ### Run the tests
